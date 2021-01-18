@@ -8,3 +8,5 @@ LeetCode Coding interview questions solved in Python.
 |[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [solution](valid_parentheses.py)|
 |[Single Number](https://leetcode.com/problems/single-number/)| [solution](single_number.py)|
 |[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)| [solution](fizz_buzz.py)|
+|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[solution](contains_duplicate.py)|
+|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[solution](stocks.py)|
