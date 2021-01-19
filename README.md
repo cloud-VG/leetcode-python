@@ -10,3 +10,4 @@ LeetCode Coding interview questions solved in Python.
 |[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)| [solution](fizz_buzz.py)|
 |[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[solution](contains_duplicate.py)|
 |[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[solution](stocks.py)|
+|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[solution](first_unique_char.py)|
