@@ -13,3 +13,4 @@ LeetCode Coding interview questions solved in Python.
 |[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[solution](first_unique_char.py)|
 |[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[solution](valid_anagram.py)|
 |[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[solution](find_peak.py)|
+|[Two Sum](https://leetcode.com/problems/two-sum/)|[solution](two_sum.py)|
