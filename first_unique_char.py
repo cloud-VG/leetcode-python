@@ -11,5 +11,5 @@ def solution(s: str) -> int:
 
 
 if __name__ == '__main__':
-    S = "loveleetcode"
+    S = 'loveleetcode'
     print(solution(S))
