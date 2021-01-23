@@ -15,3 +15,4 @@ LeetCode Coding interview questions solved in Python.
 |[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[solution](find_peak.py)|
 |[Two Sum](https://leetcode.com/problems/two-sum/)|[solution](two_sum.py)|
 |[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[solution](backspace_string.py)|
+|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[solution](move_zeros.py)|
