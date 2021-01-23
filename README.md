@@ -16,3 +16,5 @@ LeetCode Coding interview questions solved in Python.
 |[Two Sum](https://leetcode.com/problems/two-sum/)|[solution](two_sum.py)|
 |[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[solution](backspace_string.py)|
 |[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[solution](move_zeros.py)|
+|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[solution](reverse_int.py)|
+
