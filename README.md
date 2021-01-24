@@ -17,3 +17,4 @@ LeetCode Coding interview questions solved in Python.
 |12|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[solution](backspace_string.py)|
 |13|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[solution](move_zeros.py)|
 |14|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[solution](reverse_int.py)|
+|15|[Plus One](https://leetcode.com/problems/plus-one/)|[solution](plus_one.py)|
