@@ -18,3 +18,4 @@ LeetCode Coding interview questions solved in Python.
 |13|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[solution](move_zeros.py)|
 |14|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[solution](reverse_int.py)|
 |15|[Plus One](https://leetcode.com/problems/plus-one/)|[solution](plus_one.py)|
+|16|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[solution](first_bad_version.py)|
