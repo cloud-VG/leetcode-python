@@ -22,3 +22,4 @@ LeetCode Coding interview questions solved in Python.
 |17|[Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)|[solution](robot_origin.py)|
 |18|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[solution](contains_duplicate_2.py)|
 |19|[Find the Difference](https://leetcode.com/problems/find-the-difference/)|[solution](find_the_difference.py)|
+|20|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[solution](array_to_bst.py)|
