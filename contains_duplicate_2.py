@@ -16,3 +16,5 @@ if __name__ == '__main__':
     N = [1, 0, 1, 1]
     K = 1
     print(solution(N, K))
+
+    
