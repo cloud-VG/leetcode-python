@@ -23,3 +23,4 @@ LeetCode Coding interview questions solved in Python.
 |18|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[solution](contains_duplicate_2.py)|
 |19|[Find the Difference](https://leetcode.com/problems/find-the-difference/)|[solution](find_the_difference.py)|
 |20|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[solution](array_to_bst.py)|
+|21|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[solution](array_intersection.py)|
