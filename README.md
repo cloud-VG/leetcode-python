@@ -25,3 +25,4 @@ LeetCode Coding interview questions solved in Python.
 |20|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[solution](array_to_bst.py)|
 |21|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[solution](array_intersection.py)|
 |22|[Missing Number](https://leetcode.com/problems/missing-number/)|[solution](missing_number.py)|
+|23|[Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/)|[solution](moving_average.py)|
