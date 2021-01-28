@@ -24,3 +24,4 @@ LeetCode Coding interview questions solved in Python.
 |19|[Find the Difference](https://leetcode.com/problems/find-the-difference/)|[solution](find_the_difference.py)|
 |20|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[solution](array_to_bst.py)|
 |21|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[solution](array_intersection.py)|
+|22|[Missing Number](https://leetcode.com/problems/missing-number/)|[solution](missing_number.py)|
