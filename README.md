@@ -26,3 +26,4 @@ LeetCode Coding interview questions solved in Python.
 |21|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[solution](array_intersection.py)|
 |22|[Missing Number](https://leetcode.com/problems/missing-number/)|[solution](missing_number.py)|
 |23|[Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/)|[solution](moving_average.py)|
+|24|[Majority Element](https://leetcode.com/problems/majority-element/)|[solution](majority_element.py)|
