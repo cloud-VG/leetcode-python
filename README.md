@@ -31,3 +31,4 @@ LeetCode Coding interview questions solved in Python.
 |26|[Single Number II](https://leetcode.com/problems/single-number-ii/)|[solution](single_number_2.py)|
 |27|[Path Sum](https://leetcode.com/problems/path-sum/)|[solution](path_sum.py)|
 |28|[Remove Element](https://leetcode.com/problems/remove-element/)|[solution](remove_element.py)|
+|29|[Number Complement](https://leetcode.com/problems/number-complement/)|[solution](number_complement.py)|
