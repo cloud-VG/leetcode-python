@@ -29,3 +29,5 @@ LeetCode Coding interview questions solved in Python.
 |24|[Majority Element](https://leetcode.com/problems/majority-element/)|[solution](majority_element.py)|
 |25|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[solution](hamming_distance.py)|
 |26|[Single Number II](https://leetcode.com/problems/single-number-ii/)|[solution](single_number_2.py)|
+|27|[Path Sum](https://leetcode.com/problems/path-sum/)|[solution](path_sum.py)|
+
