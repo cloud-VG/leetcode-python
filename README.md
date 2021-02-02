@@ -30,4 +30,4 @@ LeetCode Coding interview questions solved in Python.
 |25|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[solution](hamming_distance.py)|
 |26|[Single Number II](https://leetcode.com/problems/single-number-ii/)|[solution](single_number_2.py)|
 |27|[Path Sum](https://leetcode.com/problems/path-sum/)|[solution](path_sum.py)|
-
+|28|[Remove Element](https://leetcode.com/problems/remove-element/)|[solution](remove_element.py)|
