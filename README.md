@@ -32,3 +32,4 @@ LeetCode Coding interview questions solved in Python.
 |27|[Path Sum](https://leetcode.com/problems/path-sum/)|[solution](path_sum.py)|
 |28|[Remove Element](https://leetcode.com/problems/remove-element/)|[solution](remove_element.py)|
 |29|[Number Complement](https://leetcode.com/problems/number-complement/)|[solution](number_complement.py)|
+|30|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[solution](stairs.py)|
