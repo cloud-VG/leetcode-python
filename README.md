@@ -34,3 +34,4 @@ LeetCode Coding interview questions solved in Python.
 |29|[Number Complement](https://leetcode.com/problems/number-complement/)|[solution](number_complement.py)|
 |30|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[solution](stairs.py)|
 |31|[Lowest Common Ancestor](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[solution](lowest_common_ancestor.py)|
+|32|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[solution](jewels_and_stones.py)|
