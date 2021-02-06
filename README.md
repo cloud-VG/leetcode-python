@@ -36,3 +36,4 @@ LeetCode Coding interview questions solved in Python.
 |31|[Lowest Common Ancestor](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[solution](lowest_common_ancestor.py)|
 |32|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[solution](jewels_and_stones.py)|
 |33|[Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/)|[solution](bin_alternating_bits.py)|
+|34|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[solution](valid_palindrome.py)|
