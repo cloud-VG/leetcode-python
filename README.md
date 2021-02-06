@@ -37,3 +37,4 @@ LeetCode Coding interview questions solved in Python.
 |32|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[solution](jewels_and_stones.py)|
 |33|[Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/)|[solution](bin_alternating_bits.py)|
 |34|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[solution](valid_palindrome.py)|
+|35|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[solution](disappeared_numbers.py)|
