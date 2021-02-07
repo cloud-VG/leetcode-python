@@ -41,3 +41,4 @@ LeetCode Coding interview questions solved in Python.
 |36|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[solution](water_container.py)|
 |37|[Monotonic Array](https://leetcode.com/problems/monotonic-array/)|[solution](monotonic_array.py)|
 |38|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[solution](sum_of_left_leaves.py)|
+|39|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[solution](remove_duplicates.py)|
