@@ -45,3 +45,4 @@ LeetCode Coding interview questions solved in Python.
 |40|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[solution](tree_postorder.py)|
 |41|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|[solution](image_flip.py)|
 |42|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[solution](kth_largest.py)|
+|43|The Slippery Pole (TechGig)|[solution](slippery_pole.py)|
