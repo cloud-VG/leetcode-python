@@ -48,3 +48,4 @@ LeetCode Coding interview questions solved in Python.
 |43|The Slippery Pole (TechGig)|[solution](Problems/slippery_pole.py)|
 |44|[Flood Fill](https://leetcode.com/problems/flood-fill/)|[solution](Problems/flood_fill.py)|
 |45|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[solution](Problems/reverse_linked_list.py)|
+|46|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[solution](Problems/level_order.py)|
