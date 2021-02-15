@@ -47,3 +47,4 @@ LeetCode Coding interview questions solved in Python.
 |42|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[solution](Problems/kth_largest.py)|
 |43|The Slippery Pole (TechGig)|[solution](Problems/slippery_pole.py)|
 |44|[Flood Fill](https://leetcode.com/problems/flood-fill/)|[solution](Problems/flood_fill.py)|
+|45|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[solution](Problems/reverse_linked_list.py)|
