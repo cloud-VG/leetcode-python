@@ -50,3 +50,4 @@ LeetCode Coding interview questions solved in Python.
 |45|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[solution](Problems/reverse_linked_list.py)|
 |46|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[solution](Problems/level_order.py)|
 |47|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|[solution](Problems/k_closest_points.py)|
+|48|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|[solution](Problems/max_area_island.py)|
