@@ -53,3 +53,4 @@ LeetCode Coding interview questions solved in Python.
 |48|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|[solution](Problems/max_area_island.py)|
 |49|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)|[solution](Problems/sort_by_frequency.py)|
 |50|[Frog Jump](https://leetcode.com/problems/frog-jump/)|[solution](Problems/frog_jump.py)|
+|51|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[solution](Problems/merge_k_sorted_lists.py)|

@@ -17,7 +17,7 @@ def solution(lists: list[ListNode]) -> ListNode:
         while node:
             values.append(node.val)
             node = node.next
-    
+
     head = current = ListNode(-1)
 
     for val in sorted(values):
