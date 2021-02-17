@@ -51,3 +51,4 @@ LeetCode Coding interview questions solved in Python.
 |46|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[solution](Problems/level_order.py)|
 |47|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|[solution](Problems/k_closest_points.py)|
 |48|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|[solution](Problems/max_area_island.py)|
+|49|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)|[solution](Problems/sort_by_frequency.py)|
