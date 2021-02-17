@@ -54,3 +54,5 @@ LeetCode Coding interview questions solved in Python.
 |49|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)|[solution](Problems/sort_by_frequency.py)|
 |50|[Frog Jump](https://leetcode.com/problems/frog-jump/)|[solution](Problems/frog_jump.py)|
 |51|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[solution](Problems/merge_k_sorted_lists.py)|
+|52|[License Key Formatting](https://leetcode.com/problems/license-key-formatting/)|[solution](Problems/license_key.py)|
+
