@@ -56,4 +56,5 @@ LeetCode Coding interview questions solved in Python.
 |51|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[solution](Problems/merge_k_sorted_lists.py)|
 |52|[License Key Formatting](https://leetcode.com/problems/license-key-formatting/)|[solution](Problems/license_key.py)|
 |53|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[solution](Problems/group_anagrams.py)|
+|54|[Detect Capital](https://leetcode.com/problems/detect-capital/)|[solution](Problems/detect_capital.py)|
 
